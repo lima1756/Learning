@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "enhanced_path", "enhanced_path\enhanced_path.pyproj", "{FBB074AF-FE2D-4708-A0A3-EFB9091F3EF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBB074AF-FE2D-4708-A0A3-EFB9091F3EF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBB074AF-FE2D-4708-A0A3-EFB9091F3EF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D08AA96-7B3C-41FA-8C9D-E28EECB4FFF3}
+	EndGlobalSection
+EndGlobal
